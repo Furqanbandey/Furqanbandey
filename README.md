@@ -2,7 +2,7 @@
 <h1 align="center">Exploring the Boundless World of Code.</h1>
 <h3 align="center">"Aspiring computer science engineer crafting a beautiful world of code and innovation."</h3>
 
-<img align="right" alt="coding" width="600" src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif">
+<img align="right" alt="coding" width="500" src="https://www.careerguide.com/career/wp-content/uploads/2021/07/EgUx.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furqanbandey&label=Profile%20views&color=0e75b6&style=flat" alt="furqanbandey" /> </p>
 
